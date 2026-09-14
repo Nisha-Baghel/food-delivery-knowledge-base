@@ -19,23 +19,19 @@ The purpose of this repository is to organize important business information, ru
 - Cancellation policy
 
 ## Main Business Process
+<details>
+<summary>Click to view Main Business Process</summary>
 
-Customer
-   ↓
-Restaurant Selection
-   ↓
-Food Selection
-   ↓
-Order Placement
-   ↓
-Payment
-   ↓
-Restaurant Preparation
-   ↓
-Delivery
-   ↓
-Order Completed
+1. Customer
+2. Restaurant Selection
+3. Food Selection
+4. Order Placement
+5. Payment
+6. Restaurant Preparation
+7. Delivery
+8. Order Completed
 
-## Conclusion
+</details>
+
 
 This repository provides a structured representation of the knowledge required for an online food delivery business system.
